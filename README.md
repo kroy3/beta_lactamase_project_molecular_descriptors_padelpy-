@@ -1,4 +1,4 @@
-# beta_lactamase_project_molecular_descriptors_padelpy-
+# beta_lactamase_project_molecular_descriptors_using_padelpy -
 
 Beta lactamase is an enzyme produced by bacteria which produced multi-ressistance against antibiotics. In this notebook we will apply 10 moleular fingerprints to investigate  molecular activities. 
 
