@@ -2,21 +2,7 @@
 
 Beta lactamase is an enzyme produced by bacteria which produced multi-ressistance against antibiotics. In this notebook we will apply 10 moleular fingerprints to investigate  molecular activities. 
 
-       
- 'AtomPairs2DCount',
- 'AtomPairs2D',
- 'EState',
- 'CDKextended',
- 'CDK',
- 'CDKgraphonly',
- 'KlekotaRothCount',
- 'KlekotaRoth',
- 'MACCS',
- 'PubChem',
- 'SubstructureCount',
- 'Substructure'
- 
- 
+
  Notebook Outlines: 
  
  1. Preparation of fingerprint present in XML file.
